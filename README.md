@@ -1,2 +1,2 @@
-README file the objective of this task.
+Branching, Making Changes, and Resolving Merge Conflicts.
 Modification in main branch.
